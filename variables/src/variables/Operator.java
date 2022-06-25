@@ -12,7 +12,14 @@ public class Operator {
 		{
 			System.out.println("value of x is 5");
 		}
-	}
+        int X=8,y=7;
+        if(x>=y)
+        {
+        	System.out.println("true");
+        }
+        else
+        {
+        	System.out.println("flase");
+        }
+       }
 }
-
-
